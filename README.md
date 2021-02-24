@@ -5,7 +5,8 @@ https://feathericons.com
 
 
 As 2-24-2021
-Only macOSX builds active
+Only macOSX builds active https://github.com/PvPSteven/QttextEditor/releases
+
 
 Just drop & drag the application into your application folder 
 If you want to support this project just join the discord server
