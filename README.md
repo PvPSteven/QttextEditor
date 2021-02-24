@@ -1,8 +1,10 @@
 # QttextEditor
-This is a simple text editor made in c++ with the Qt framework
+This is a simple text editor made in c++ with the Qt framework.
+icons used in the project:
+https://feathericons.com
 
 
-As 1-4-2021 
+As 2-24-2021
 Only macOSX builds active
 
 Just drop & drag the application into your application folder 
