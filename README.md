@@ -6,7 +6,7 @@ https://feathericons.com
 
 As 2-24-2021
 Only macOSX builds active https://github.com/PvPSteven/QttextEditor/releases when you go open the application make should to go under security & and privacy to open the application
-or you can use open the project with qt creator https://www.qt.io/product/development-tools
+or you can open the project with qt creator then build it but make sure to download feathericons and put them in resources https://www.qt.io/product/development-tools
 
 
 Just drop & drag the application into your application folder or desktop
